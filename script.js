@@ -32,4 +32,10 @@ function display(length) {
 
 display(container.children.length) 
 
+// if you wanna use the script in the editor;
+// start in quokka.js extension(if you don't have it yet, install it from Extensions Tab in VS code): 
+// press ctrl+shift+p, then in the search box, type "Quokka.js: Start On Current File" and hit enter
+
+// or alternatively, use node.js:
+// press ctrl+shift+` to start a new terminal, then navigate into this folder(using cd) and type "node script.js"
 
