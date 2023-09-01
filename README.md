@@ -42,6 +42,7 @@ snippet of the sequence: `1, 1, 2, 3, 5`
 ## Screenshots 📷
 
 ![image of visualized fibonacci sequence](image.png)
+_image of visualized fibonacci sequence ^_
 
 ## Technologies Used 🛠️
 
